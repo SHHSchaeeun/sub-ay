@@ -6,5 +6,6 @@ datetime
 secrets
 string
 pyrebase
-matplotlib.pyplot as plt
+matplotlib.pyplot
+matplotlib
 firebase_admin
