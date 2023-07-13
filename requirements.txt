@@ -10,3 +10,4 @@ matplotlib.pyplot
 matplotlib
 firebase_admin
 OpenSSL
+/home/appuser/venv/bin/python -m pip install --upgrade pip
