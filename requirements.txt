@@ -9,3 +9,4 @@ pyrebase
 matplotlib.pyplot
 matplotlib
 firebase_admin
+OpenSSL
